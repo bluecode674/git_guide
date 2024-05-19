@@ -1,2 +1,4 @@
-# git_guide
-git guide
+### git_guide
+
+#깃 파일 올리기 (생성된 파일 올리는 방법)
+  1.
