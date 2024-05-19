@@ -14,7 +14,9 @@
   git config user.email
   ```
 
-#### file upload
+1. 레포지토리 생성 (readme, ignore 파일 생성 x)
+
+#### file upload (처음 파일 올리기)
   ```
   git init
   git add .
@@ -23,7 +25,7 @@
   git push origin <브렌치 이름>
   ```
 
-#### file download
+#### file download (처음 파일 다운받기)
 ```
   git init
   git clone <깃주소>
