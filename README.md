@@ -9,7 +9,7 @@
   6. git commmit -m <메세지>
   7. git push origin <브렌치 이름>
      
-# 이름과 이메일 확인
+### 이름과 이메일 확인
   git config user.name                
   git config user.email
 
