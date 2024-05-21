@@ -37,3 +37,10 @@ git add .
 git commit -m <커밋문>
 git push origin <브렌치 이름>
 ```
+
+
+### git pull
+```
+git add .
+git pull
+```
