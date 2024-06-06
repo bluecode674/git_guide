@@ -44,3 +44,8 @@ git push origin <브렌치 이름>
 git add .
 git pull
 ```
+
+### git 주소 변경
+```
+git remote set-url origin <새로운_URL>
+```
