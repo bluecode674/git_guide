@@ -14,8 +14,6 @@
   git config user.email
   ```
 
-1. 레포지토리 생성 (readme, ignore 파일 생성 x)
-
 #### file upload (처음 파일 올리기)
   ```
   git init
@@ -49,3 +47,13 @@ git pull
 ```
 git remote set-url origin <새로운_URL>
 ```
+
+### 화살표 파일 해결법
+1. 화살표 파일에 들어간다 (cd 이용)
+2. 아래코드 입력
+```
+rm -rf .git
+git rm. -cached . -rf
+```
+3. 다시 푸쉬
+화살표 파일 이유: 다른 git파일이 존재해서 git 파일을 삭제해 주어야 한다고 
